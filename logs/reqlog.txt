@@ -1,0 +1,12 @@
+4:39:49 PM	755c8fbb-56f2-49a7-b13f-778acf902972	/css/style.css	GET
+4:39:49 PM	a338ff03-01d3-44dc-bb21-1d05afa3abea	/img/img1.jpg	GET
+4:39:58 PM	bbda043f-8865-4160-a3e2-7f681b9e69cf	/new-page.html	GET
+4:39:58 PM	b2077ab3-4148-40ae-80d3-5dbd57f7ac63	/css/style.css	GET
+4:39:58 PM	2472a86e-aee7-4dc9-b274-e80a247fa53f	/img/img1.jpg	GET
+4:42:33 PM	f91fa0bd-8813-4f15-84a8-8ce923b6e28f	/new-page.html	GET
+4:42:49 PM	39cbe05c-5520-4c18-9159-db22926abd9f	/new-page.html	GET
+4:43:00 PM	2a66b948-cbad-47cc-8330-1b870a3fcd23	/new-page.html	GET
+4:43:00 PM	95d80ef7-16cc-41e4-92e6-3f8ef7409d90	/css/style.css	GET
+4:43:00 PM	cf607a34-0736-4146-894d-5db106e6f248	/img/img1.jpg	GET
+4:43:30 PM	e90d060b-14bc-452c-a881-1ea33c42a451	/	GET
+4:43:30 PM	6f48dd73-7d3a-450b-9a66-5d6b8df88327	/css/style.css	GET
